@@ -1,0 +1,56 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  font-family: "dusha_plusregular";
+  background: #ffffff url(storage/upload/bg.jpg);
+}
+html{
+  font-family: "dusha_plusregular";
+}
+nav.navbar.navbar-inverse.navbar-fixed-top {
+  font-family: "dusha_plusregular";
+}
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+ul.nav.navbar-nav {
+  margin: 8px;
+  padding-left: 20px;
+}
+.modal-header .close {
+  margin-top: -21px!important;
+}
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+div#app-navbar-collapse {
+  background-color: transparent;
+}
+.navbar-inverse {
+  background-image: linear-gradient(to bottom,#0d6cb5 0,#042263 100%)!important;
+}
+
+
+@font-face {
+  font-family: "dusha_plusregular";
+  src: url('/fonts/dusha-regular.woff');
+  
+}
+
+@font-face {
+  font-family: 'Dusha_V5';
+  src: url('/fonts/Dusha_-_FIFA_World_Cup_2018.ttf');
+}
